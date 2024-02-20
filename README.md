@@ -1,16 +1,27 @@
-### Hi there 👋
+### Hi There 👋
 
-<!--
-**Rui-LSilva/Rui-LSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Rui Silva, I'm living in Leiria, Portugal. Have a degree in computer engineering and currently acquiring more knowledge in cybersecurity and computer forensics through a master's degree, with the aim of strengthening skills and contributing to a safer digital environment.
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Key Competences
+- 🔒 Cybersecurity 
+- 👨‍💻 Ethical Hacking 
+- 📄 Penetration Testing
+- 📚 Policies and Risk Analysis
+
+<hr>
+
+### Software Competences
+- Kali Linux
+- Nmap
+- Wireshark
+- Autopsy 
+- Microsoft
+- Linux
+
+<hr>
+
+- 🌱 I’m currently learning cybersecurity and computer forensics
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/rui-pedro-l-silva/">Linkedin</a>
+
