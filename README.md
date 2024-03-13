@@ -4,7 +4,7 @@ My name is Rui Silva, I'm living in Leiria, Portugal. Have a degree in computer 
 
 <hr>
 
-### Key Competences
+### Key Skills
 - 🔒 Cybersecurity 
 - 👨‍💻 Ethical Hacking 
 - 📄 Penetration Testing
@@ -12,7 +12,7 @@ My name is Rui Silva, I'm living in Leiria, Portugal. Have a degree in computer 
 
 <hr>
 
-### Software Competences
+### Software Skills
 - Kali Linux
 - Nmap
 - Wireshark
